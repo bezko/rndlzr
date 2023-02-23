@@ -11,6 +11,8 @@ Un exercise aléatoire
 
 ## Instalation
 
+(nodejs v12 sous Ubuntu 22.04)
+
 * npm i
 * npm run build
 * nodejs src/main.js
