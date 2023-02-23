@@ -1,0 +1,36 @@
+{
+  "name": "rndlzr",
+  "version": "1.0.0",
+  "description": "Un exercise aléatoire",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bezko/rndlzr.git"
+  },
+  "author": "bezko",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/bezko/rndlzr/issues"
+  },
+  "homepage": "https://github.com/bezko/rndlzr#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "ejs": "^3.1",
+    "express": "^4.17",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.47",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.2",
+    "css-loader": "^6.7",
+    "vue-loader": "^17.0",
+    "vue-style-loader": "^4.1",
+    "vue-template-compiler": "^2.6",
+    "webpack-cli": "^4.10"
+  }
+}
