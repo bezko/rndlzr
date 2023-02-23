@@ -9,7 +9,7 @@ Un exercise aléatoire
 * Utilisation de simple endpoints REST pour créer et récupérer la liste de nombre (POST et GET)
 * Utilisation de jQuery pour les animation pour le prototype, éventuellement remplacer par des animations CSS3 et/ou gsap (https://vuejs.org/guide/extras/animation.html)
 
-## Instalation
+## Installation
 
 (nodejs v12 sous Ubuntu 22.04)
 
